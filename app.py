@@ -13,7 +13,7 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-st.markdown('<p class="ana-baslik">🚧 ATÖLYE ÇİT HESAPLAMA</p>', unsafe_allow_html=True)
+st.markdown('<p class="ana-baslik">🚧 ZEKİ ÇİT HESAPLAMA</p>', unsafe_allow_html=True)
 
 # --- 1. VERİ MERKEZİ (İLERİDE BURASI GENİŞLEYECEK) ---
 tel_tipleri = {
